@@ -1,4 +1,4 @@
-# Objective-C-zeo-2-
+# Objective-C-zeo-2
 My second program in the seo Alliance on Objective C.
 
 1. Создаем проект консольного приложения для Mac OS.
